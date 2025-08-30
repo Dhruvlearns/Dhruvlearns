@@ -20,9 +20,9 @@ I'm passionate about open source and active in the tech community—let’s buil
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/dhruv_learns" target="blank">
+<!--   <a href="https://twitter.com/dhruv_learns" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv_learns" height="30" width="40" />
-  </a>
+  </a> -->
   <a href="https://linkedin.com/in/dhruv-agrawal-2163a5237" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
