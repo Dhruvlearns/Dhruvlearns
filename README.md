@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dhruv Agrawal 👋</h1>
 <p align="center">
-  <strong>Software Engineer • Full-Stack Developer • AI & React Specialist</strong>
+  <strong>Software Engineer • Full-Stack Developer • AI‑Powered Apps </strong>
 </p>
 
 ---
@@ -17,7 +17,7 @@ Actively exploring **AI, automation, and distributed systems** to grow as a stro
 
 ### **Backend**
 - Node.js, Express.js
-- C#, ASP.NET Core, Web API, Entity Framework Core  
+- FastAPI ,Uvicorn 
 
 
 ### **Frontend**
@@ -101,7 +101,7 @@ Actively exploring **AI, automation, and distributed systems** to grow as a stro
 ---
 
 
-## 🎨 Portfolio Website
+##  Portfolio Website
 Explore my developer portfolio (modern UI + Spotify theme):
 
 🔗 **https://v0-spotify-portfolio-website.vercel.app/**
