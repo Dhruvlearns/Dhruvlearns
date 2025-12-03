@@ -1,34 +1,43 @@
-<h1 align="center">Hi 👋, I'm Dhruv Agrawal</h1>
-<h3 align="center">
-🚀 Full Stack Developer | Open Source Contributor | Strategic Product Thinker  
-Skilled in ASP.NET Core, MERN stack, C++, Python, and React, I specialize in building scalable solutions with clean architecture.  
-I apply modern development principles including SOLID, DRY, and KISS to ensure code quality, maintainability, and performance.  
-Proficient in leveraging AI tools for productivity and innovation—from intelligent coding assistance to optimized decision-making.  
-I'm passionate about open source and active in the tech community—let’s build the future together. 💡
-</h3>
+<h1 align="center">Hi, I'm Dhruv Agrawal 👋</h1>
+<p align="center">
+  <strong>Software Engineer • Full-Stack Developer • AI & React Specialist</strong>
+</p>
 
+---
 
+##  About Me
+I’m a Software Engineer focused on building **scalable backend systems** and polished **full-stack applications** using modern engineering principles.  
+I specialize in **JavaScript, React.js , NodeJs, SQL, Python, and Docker**, with a strong foundation in **clean architecture, API design,** and system reliability.  
+Actively exploring **AI, automation, and distributed systems** to grow as a strong SDE.
+
+---
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif" />
 
-<p align="left">
-  <a href="https://twitter.com/dhruv_learns" target="blank">
-    <img src="https://img.shields.io/twitter/follow/dhruv_learns?logo=twitter&style=for-the-badge" alt="dhruv_learns" />
-  </a>
-</p>
+## 🛠️ Tech Stack
 
-- 📫 How to reach me: **dhruv.alearner@gmail.com**
+### **Backend**
+- Node.js, Express.js
+- C#, ASP.NET Core, Web API, Entity Framework Core  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!--   <a href="https://twitter.com/dhruv_learns" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv_learns" height="30" width="40" />
-  </a> -->
-  <a href="https://linkedin.com/in/dhruv-agrawal-2163a5237" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+### **Frontend**
+- React.js, Next.js, TypeScript  
+- Tailwind CSS, Redux Toolkit
+
+### **Database**
+- SQL Server, PostgreSQL, MongoDB
+
+### **DevOps / Tools**
+- Docker & Docker Compose  
+- GitHub Actions (CI/CD)  
+- Swagger, Postman  
+- Redis, RabbitMQ (learning)
+
+### **AI & Python**
+- OpenCV, OCR, Pandas, NumPy  
+- ML basics & data pipelines
+
+
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -89,6 +98,47 @@ I'm passionate about open source and active in the tech community—let’s buil
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvlearns&show_icons=true&locale=en&layout=compact" alt="dhruvlearns" />
+---
+
+
+## 🎨 Portfolio Website
+Explore my developer portfolio (modern UI + Spotify theme):
+
+🔗 **https://v0-spotify-portfolio-website.vercel.app/**
+
+---
+
+## ✍️ My Blog (Medium)
+I write about software engineering, clean architecture, and React/JS fundamentals:  
+
+📘 **https://medium.com/@agrawaldhruv932**
+
+Topics I’ll be covering:
+- Clean Architecture in .NET  
+- System Design for beginners  
+- AI + automation workflows  
+- Mastering JavaScript fundamentals  
+- Productivity as a developer  
+
+---
+## 🏆 Achievements
+- 💼 **Software Developer Intern @ Symtrax**  
+- 🤖 Created a whatsapp AI Bot 
+- 🏀 Hackathon participant + multiple real-world projects  
+- 📚 Strong in DSA, OOP, and system design basics
+
+---
+
+
+## 🔗 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/dhruv-agr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@agrawaldhruv932"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://v0-spotify-portfolio-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="mailto:agrawaldhruv932@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+---
+
+⭐ **If you like my work, feel free to star repositories or connect!**
+
